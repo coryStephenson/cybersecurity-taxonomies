@@ -1,4 +1,4 @@
-# cryptography
+# cybersecurity notes
 
 ```mermaid
 graph TD;
