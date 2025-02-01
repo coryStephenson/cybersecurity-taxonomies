@@ -107,7 +107,6 @@ graph TD;
 - Phishing/Smishing/Vishing/Quishing
 - Password Attacks: Brute Force, Dictionary, Spraying, Rainbow Table, Credential Harvesting, Hybrid attack, Online Password attacks, Offline password attacks
 - Privilege Escalation: Kernel Exploits, Weak or Reused Credentials, App/Service Misconfiguration, Vulnerable Third-Party Software, Container Breakouts, Sudo Setup Errors, Scheduled Tasks
-- Meet-in-the-Middle (MitM)
 - Man-in-the-Middle (MitM) a.k.a on-path attacks or interception attacks
 - Replay Attack: Credential Replay, Credential Stuffing 
 - RFID Cloning and Skimming
@@ -118,12 +117,24 @@ graph TD;
 - ARP Poisoning
 - Session Replay: Cross-Site Scripting (XSS)
 
-*Cryptographic Attacks*
-Downgrade Attacks: SSL/TLS downgrade, SSL stripping
-Collision Attack
-Birthday Attack
-Pass-the-Hash Attack
+*DNS Attacks*
+- DNS Hijacking
+- DNS Cache Poisoning (a.k.a. DNS spoofing)
+- DNS Amplification
+- DNS Tunneling
+- DNS Flooding
+- Subdomain Attack
+- Domain Generation Algorithm Attack
+- DNS Rebinding
+- NXDOMAIN Attack
+- DNSSEC Bypass
 
+*Cryptographic Attacks*
+- Downgrade Attacks: SSL/TLS downgrade, SSL stripping
+- Collision Attack
+- Birthday Attack
+- Pass-the-Hash Attack
+- Meet-in-the-Middle (MitM)
 
 <a href="https://www.researchgate.net/figure/Classification-of-cryptographic-algorithms_fig4_330440535"><img src="https://www.researchgate.net/profile/Ki-Hyun-Jung/publication/330440535/figure/fig4/AS:715946696122370@1547706402764/Classification-of-cryptographic-algorithms.ppm" alt="3 Classification of cryptographic algorithms."/></a>
 
