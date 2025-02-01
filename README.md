@@ -103,13 +103,20 @@ graph TD;
 *Attacks/Exploits*
 - XARA
 - Zero Day Vulnerability
-- Side-Channel Attacks
+- Side-Channel Attacks: power consumption, timing, or electromagnetic radiation
 - Phishing/Smishing/Vishing/Quishing
-- Password Attacks: Brute Force, Dictionary, Birthday, Spraying, Rainbow Table, Credential Harvesting, Credential Stuffing
+- Password Attacks: Brute Force, Dictionary, Birthday, Spraying, Rainbow Table, Credential Harvesting
 - Privilege Escalation: Kernel Exploits, Weak or Reused Credentials, App/Service Misconfiguration, Vulnerable Third-Party Software, Container Breakouts, Sudo Setup Errors, Scheduled Tasks
 - Meet-in-the-Middle (MitM)
-- Man-in-the-Middle (MitM)
-- Replay Attack
+- Man-in-the-Middle (MitM) a.k.a on-path attacks or interception attacks
+- Replay Attack: Credential Replay, Credential Stuffing 
+- RFID Cloning and Skimming
+- Pivoting Attack (VM Escape in the context of virtual networks)
+- DDoS Attacks: Amplified (e.g. Smurf attack) and Reflected attacks
+- Forgery attacks:
+- Wireless Attacks: Rogue access points, Evil twin, Deauthentication (disassociation) attacks, jamming attacks, MAC spoofing, device impersonation
+- ARP Poisoning
+- Session Replay: Cross-Site Scripting (XSS)
 
 
 <a href="https://www.researchgate.net/figure/Classification-of-cryptographic-algorithms_fig4_330440535"><img src="https://www.researchgate.net/profile/Ki-Hyun-Jung/publication/330440535/figure/fig4/AS:715946696122370@1547706402764/Classification-of-cryptographic-algorithms.ppm" alt="3 Classification of cryptographic algorithms."/></a>
