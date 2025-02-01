@@ -49,6 +49,67 @@ graph TD;
       ElGamal --> Cramer-Shoup;
       Cramer-Shoup --> Massey-Omura;
 ```
+
+*Types of Malware*
+
+Spyware
+Adware
+Virus
+Worm
+Trojan Horse (Remote Access Trojan)
+Banking Trojans
+Muleware
+Doxxingware
+Cryptomalware (Ransomware)
+Grayware
+E-bomb
+Logic Bomb
+bot (botnet)
+Polymorphic malware
+Armored Malware
+Fileless Malware
+Potentially Unwanted Program (PUP)
+Keyloggers
+Backdoor
+Riskware
+Scareware
+Air-gapped malware
+Infostealers
+Rootkits
+Automated Threat
+Blended Threat
+Browser Hijacker
+Chargeware
+Code Injection (e.g. SQLI, XSS)
+Crimeware
+Dialer
+Dropper
+File Binder
+Fleeceware
+Form Grabbing
+Malvertising
+Pharming
+Polymorphic code (uses a polymorphic engine)
+Pop-up Ad
+Rogue security software
+Targeted Threat
+Typhoid adware
+Virus hoax
+Webattacker
+Wiper Malware
+XARA
+Zip Bomb (a.k.a. Decompression Bomb or Zip of Death (ZOD))
+
+*Attacks/Exploits*
+XARA
+Zero Day Vulnerability
+Side-Channel Attacks
+Phishing/Smishing/Vishing/Quishing
+Password Attacks: Brute Force, Dictionary, Birthday, Spraying, Rainbow Table, Credential Harvesting, Credential Stuffing
+Privilege Escalation: Kernel Exploits, Weak or Reused Credentials, App/Service Misconfiguration, Vulnerable Third-Party Software, Container Breakouts, Sudo Setup Errors, Scheduled Tasks
+Meet-in-the-Middle (MitM)
+Man-in-the-Middle (MitM)
+
 <a href="https://www.researchgate.net/figure/Classification-of-cryptographic-algorithms_fig4_330440535"><img src="https://www.researchgate.net/profile/Ki-Hyun-Jung/publication/330440535/figure/fig4/AS:715946696122370@1547706402764/Classification-of-cryptographic-algorithms.ppm" alt="3 Classification of cryptographic algorithms."/></a>
 
 [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-78-5.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-78-5.pdf)
