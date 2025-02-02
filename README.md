@@ -54,9 +54,9 @@ graph TD;
 
 - Spyware
 - Adware
-- Virus
-- Worm
-- Trojan Horse (Remote Access Trojan)
+- Virus: File Infector, Boot Sector, Master Boot Record virus, Multipartite virus, Macro virus
+- Worm: Email Worm, Instant Messaging Worm, Internet Worm, Internet Relay Chat (IRC) worm, File Sharing Worm
+- Trojan Horse 
 - Banking Trojans
 - Muleware
 - Doxxingware
