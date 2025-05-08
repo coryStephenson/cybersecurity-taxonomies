@@ -148,6 +148,15 @@ graph TD;
 - Pass-the-Hash Attack
 - Meet-in-the-Middle (MitM)
 
+*Ransomware*
+- big-game-hunting ransomware
+- commodity ransomware
+- extortionware
+- double extortion
+- triple extortion
+- Ransomware-as-a-Service (RaaS)
+- "grey infrastructure"/bulletproof servers
+
 <a href="https://www.researchgate.net/figure/Classification-of-cryptographic-algorithms_fig4_330440535"><img src="https://www.researchgate.net/profile/Ki-Hyun-Jung/publication/330440535/figure/fig4/AS:715946696122370@1547706402764/Classification-of-cryptographic-algorithms.ppm" alt="3 Classification of cryptographic algorithms."/></a>
 
 [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-78-5.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-78-5.pdf)
