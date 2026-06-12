@@ -128,7 +128,13 @@ graph TD;
 - Blind content-based SQL injection
 - Blind SQL injection
 - Blind timing-based SQL injection
-  
+
+*DoS Attacks*
+- Denial of Service (DoS) Attack
+- Distributed Denial of Service (DDoS) Attack
+- Reflection Attack (Amplification Attack)
+- Pulsing (intermittent) Attack
+
 *DNS Attacks*
 - DNS Hijacking
 - DNS Cache Poisoning (a.k.a. DNS spoofing)
