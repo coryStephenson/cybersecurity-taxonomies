@@ -135,6 +135,29 @@ graph TD;
 - Reflection Attack (Amplification Attack)
 - Pulsing (intermittent) Attack
 
+*Classes of DoS attack impact*
+- Choking access to the service
+- Disabling the service
+- Downgrading service performance
+
+*Network-based DoS attacks (protocol manipulation)*
+- TCP SYN flood: partially creates TCP session, doesn't complete the session handshake, consuming resources to maintain status info on the half open connection
+- Smurf (ICMP) attack: reflective attack that uses ICMP echo, source address is forged as the target address, and the ICMP response is sent back to the target. If sufficient ICMP requests are made, the response packets flood the target's bandwidth.
+- UDP flood
+- ARP flood
+- DNS reflection
+- NTP reflection
+
+*Wireless DoS attacks*
+- de-authentication attack
+- broadcast de-authentication attack
+- routing congestion attack
+
+*Application (host-based) DoS attacks*
+- HTTP flooding
+- FTP attack
+- SIP attack
+
 *DNS Attacks*
 - DNS Hijacking
 - DNS Cache Poisoning (a.k.a. DNS spoofing)
